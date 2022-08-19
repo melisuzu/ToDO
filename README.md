@@ -2,3 +2,8 @@
 ## How to use:
 * if you done → click
 * if you want to erase → right click
+
+
+memo : I started to study javascript.
+This is my first time to write code in js! 
+
