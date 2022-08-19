@@ -4,6 +4,6 @@
 * if you want to erase → right click
 
 
-memo : I started to study javascript.
+memo : I'm studying javascript now.
 This is my first time to write code in js! 
 
